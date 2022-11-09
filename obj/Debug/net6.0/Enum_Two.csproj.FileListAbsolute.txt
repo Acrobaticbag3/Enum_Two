@@ -1,0 +1,15 @@
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\bin\Debug\net6.0\Enum_Two.exe
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\bin\Debug\net6.0\Enum_Two.deps.json
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\bin\Debug\net6.0\Enum_Two.runtimeconfig.json
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\bin\Debug\net6.0\Enum_Two.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\bin\Debug\net6.0\Enum_Two.pdb
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.csproj.AssemblyReference.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.AssemblyInfoInputs.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.AssemblyInfo.cs
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.csproj.CoreCompileInputs.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\refint\Enum_Two.dll
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.pdb
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\Enum_Two.genruntimeconfig.cache
+C:\Users\mtjoh\OneDrive\Dokument\GitHub\Enum_Two\obj\Debug\net6.0\ref\Enum_Two.dll
